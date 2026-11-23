@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "results": 2,
+  "newsResults": [
+    {
+      "title": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC",
+      "url": "https://www.bbc.com/news/live/cmlye926e2eet",
+      "timeStamp": "Thu, 19 Nov 2026 06:45:39 GMT",
+      "source": {
+        "name": "BBC",
+        "url": "https://www.bbc.com"
+      }
+    },
+    {
+      "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang - NPR",
+      "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+      "timeStamp": "Wed, 18 Nov 2026 12:14:28 GMT",
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org"
+      }
+    }
+  ]
+}
