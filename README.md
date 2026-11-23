@@ -34,7 +34,7 @@ Each linked file is an endpoint-specific JSON example for the request shown in i
 
 Base URL: `https://api.cognifyapi.com`
 
-Send your API key in the `x-cognifyapi-key` header. Install Axios with `npm install axios`, set `COGNIFY_API_KEY`, then run [`google-news-api.js`](./google-news-api.js).
+Send your API key in the `x-cognifyapi-key` header. Install Axios with `npm install axios`, set `COGNIFY_API_KEY`, then run [`index.js`](./index.js).
 
 ```text
 x-cognifyapi-key: YOUR_COGNIFY_API_KEY
