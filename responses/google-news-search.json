@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "query": "elon musk",
+  "results": 2,
+  "newsResults": [
+    {
+      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending - CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "timeStamp": "Thu, 19 Nov 2026 02:37:00 GMT",
+      "source": {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com"
+      }
+    },
+    {
+      "title": "Elon Musk Says Nvidia Made a ‘Mistake’ by Parting Ways With Jensen Huang: Calls Ex-CEO ‘Michael Jordan Perhaps at His Peak Level’ - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-nvidia-made-014213735.html",
+      "timeStamp": "Thu, 19 Nov 2026 01:42:00 GMT",
+      "source": {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      }
+    }
+  ]
+}
